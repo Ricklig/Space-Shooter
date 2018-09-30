@@ -1,0 +1,2221 @@
+fileFormatVersion: 2
+guid: 2ffc3ac00e7c60c49beced73b77c1e68
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_0
+    21300002: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_1
+    21300004: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_2
+    21300006: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_3
+    21300008: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_4
+    21300010: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_5
+    21300012: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_6
+    21300014: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_7
+    21300016: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_8
+    21300018: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_9
+    21300020: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_10
+    21300022: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_11
+    21300024: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_12
+    21300026: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_13
+    21300028: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_14
+    21300030: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_15
+    21300032: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_16
+    21300034: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_17
+    21300036: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_18
+    21300038: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_19
+    21300040: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_20
+    21300042: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_21
+    21300044: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_22
+    21300046: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_23
+    21300048: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_24
+    21300050: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_25
+    21300052: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_26
+    21300054: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_27
+    21300056: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_28
+    21300058: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_29
+    21300060: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_30
+    21300062: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_31
+    21300064: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_32
+    21300066: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_33
+    21300068: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_34
+    21300070: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_35
+    21300072: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_36
+    21300074: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_37
+    21300076: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_38
+    21300078: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_39
+    21300080: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_40
+    21300082: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_41
+    21300084: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_42
+    21300086: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_43
+    21300088: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_44
+    21300090: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_45
+    21300092: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_46
+    21300094: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_47
+    21300096: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_48
+    21300098: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_49
+    21300100: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_50
+    21300102: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_51
+    21300104: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_52
+    21300106: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_53
+    21300108: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_54
+    21300110: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_55
+    21300112: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_56
+    21300114: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_57
+    21300116: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_58
+    21300118: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_59
+    21300120: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_60
+    21300122: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_61
+    21300124: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_62
+    21300126: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_63
+    21300128: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_64
+    21300130: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_65
+    21300132: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_66
+    21300134: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_67
+    21300136: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_68
+    21300138: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_69
+    21300140: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_70
+    21300142: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_71
+    21300144: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_72
+    21300146: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_73
+    21300148: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_74
+    21300150: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_75
+    21300152: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_76
+    21300154: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_77
+    21300156: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_78
+    21300158: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_79
+    21300160: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_80
+    21300162: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_81
+    21300164: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_82
+    21300166: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_83
+    21300168: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_84
+    21300170: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_85
+    21300172: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_86
+    21300174: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_87
+    21300176: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_88
+    21300178: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_89
+    21300180: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_90
+    21300182: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_91
+    21300184: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_92
+    21300186: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_93
+    21300188: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_94
+    21300190: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_95
+    21300192: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_96
+    21300194: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_97
+    21300196: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_98
+    21300198: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_99
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2240
+        width: 84
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c974e47fdfb93fb4591dbf82b0896369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2238
+        width: 85
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b699f53d58e96b740a3b4cccf0a1a9fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2197
+        width: 86
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678b512b0ec5ed94092556afa71aac25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2221
+        width: 108
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dc63a1d7acbfc44ba81efc377c5c6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2244
+        width: 99
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af5dec19129f5c4aae9f84bf7656eb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2261
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf087a25a4dc2a9459aad2e4f0131d71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2090
+        width: 321
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f9dbb1e5a789c40b275e6435acf92e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2016
+        width: 253
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653184c848bc6344d9ee11e9abff004c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 2103
+        width: 262
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f2f4cce16664b44a39624c8fd7d698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 2173
+        width: 152
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1711987b8a13443a70681ff190890a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 2079
+        width: 157
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a365841382387bb4fabea94703a1a23a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 2135
+        width: 224
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd32da827d0e5f643b15df3fae9669b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 2128
+        width: 140
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d93ee307100b64f83c95dbcba307fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 2073
+        width: 156
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761fb16e9b4db0e4fa9ba2106c1b2fd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2080
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c133f49b4a031c049b1763a4ff8df9f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2057
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f081cfdf4a790c4f8bdd3e43c156f56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2063
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1d8ea22d34cdc448d716d110f81a31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2019
+        width: 90
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ab557355c564749a66d7c647d75748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2042
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5be50688201894cb34cb9ff2d4079a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2039
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f071171df46b845a5b0cb745a09e0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1827
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c213b48805c4dc74ba843ae4ebb5e3b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1832
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c3a7c119c1589489b483782e871317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1831
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39650c3f7542a484db0711a09c7800e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1815
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c6211157577984298d725006fac929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1775
+        width: 113
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36ddfa03f0e5d14589d6c02ee322c09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1825
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4eb213f3431a74aac3c177151151fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1760
+        width: 190
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207f30883e3fd6042a4371bc5c027877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1782
+        width: 141
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619f9056424ece34da0ba2d29100e446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1788
+        width: 341
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3853f5fcfeb6843a4222a103cba903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1769
+        width: 227
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd002b5e08852048b6c07e5d713b7e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1756
+        width: 231
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d598966572949904d8a5435929fd5c7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1769
+        width: 166
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc98283deeeca2449948d79dd7efa83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1767
+        width: 159
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f81d0ee628b9f41bce3fa4fed27487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 1762
+        width: 142
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc8ac952936ca1409f6a3b2b7af5f1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1382
+        width: 278
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f042a71444045b746bc8628633bb9567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1467
+        width: 108
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975b428d339383e4eb28edf32f738ecd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1463
+        width: 119
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31741ec35fb5dff44b9c11360f79642e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1454
+        width: 149
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ae6ff119fac6f47b40595d297908c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1471
+        width: 183
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dfa41da4f7d164b945702d3c7c181c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1467
+        width: 235
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8037144d0006e24380b3d84e979cd06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1485
+        width: 127
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dea9c047d50fb408c7b29e42719b41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1486
+        width: 104
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee982afe3fda1d7488f8426c535b99d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1481
+        width: 92
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a1678a0181acd409807c35c30ea4e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1473
+        width: 68
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7931753a79490d6419104bdee15c79c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1478
+        width: 70
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d36d114b385aa4eb0518e8e9440bbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1435
+        width: 85
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16d4a58bba33e04a8a677b483f1d94f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1419
+        width: 148
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96c84fb3ce69d04b8a2c2c8c8ae88ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 1444
+        width: 254
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea6135554da7ad40b429d4f0d985b18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1124
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2240db8104c762749bf20acba6bba261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1135
+        width: 103
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aabd19b6c400234596e7ad4b1f095e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1099
+        width: 138
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bea53f34f816848bb7fd9cb172c4ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1149
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4166368b78bed27408a2a041f9a1b47d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1097
+        width: 229
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf001c7d6dc815a438749f47f8712cac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1100
+        width: 638
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0976433a40aa2ad4984a81800a191314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1124
+        width: 164
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9db2be18ecb98745a3679e8179c290a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1124
+        width: 198
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21c34858c85c7049b061421fe26b348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1002
+        width: 261
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c8e3e093d482a4999923ae1c00267d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1112
+        width: 97
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439067ad5ba6117429d0ae7bd36ed7f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 834
+        width: 122
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e077d83ed98bc5419b49917e2225d84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_59
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 831
+        width: 123
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b810cb49ae32c84ab9d8e1e28e8e907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_60
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 788
+        width: 217
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d897be728b61c74692c433031a191f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_61
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 808
+        width: 107
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c1aef5f76bf57489983c08d2e5d60c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_62
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 790
+        width: 154
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbebad2f46dd6434c868f93a7eb715c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_63
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 770
+        width: 300
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05c8262bceda9d4da5cc991b915b11f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_64
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 826
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9213187d9f0324549ac84df83903abef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_65
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 825
+        width: 159
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681e342ad70228a4c8e0ae0c7c18f693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_66
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 805
+        width: 195
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d6b6d8ade0dc74e87d6fb7a758a1b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_67
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 811
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a3f649cc4dbcd4d9266773ec25a9cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_68
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 769
+        width: 144
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cba0e2e1f8dc6946834927875983492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_69
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 804
+        width: 65
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b3f70f968562646b9a7503021c1ce0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_70
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 789
+        width: 127
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28df0c3e17aede46abefea34c646523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_71
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 466
+        width: 71
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0393e5e200e9b464a9d38368783f097f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_72
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 459
+        width: 97
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f835c487d1b0f664a926f7d6a076873e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_73
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 345
+        width: 202
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4f79d850f41b2438a0e2472d064e93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_74
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 437
+        width: 330
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ace6db4dda705d48ade0622509302b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_75
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 450
+        width: 237
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c65e0100158ee34da4b2c6424136c4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_76
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 389
+        width: 175
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bfb422dc819a6459abd27f0311b15e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_77
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 456
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cd76a8665751d4f95cd7c37b3d1f19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_78
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 446
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e40e7469b037a84699f09d60dd3f768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_79
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 483
+        width: 170
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8635f8cfee1374ea93057a0d2dca84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_80
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 390
+        width: 249
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bdb4b9c46d5de4cb8db5ff7605684a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_81
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 385
+        width: 188
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace43deb4a6e3994d94d934ebb387d9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_82
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 456
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880acfc73e5f46041ace4a01b5f0faa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_83
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 428
+        width: 173
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc2ae8d30128e140a09af2c5b4593f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_84
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 67
+        width: 130
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08b1cf6794419c42aab7b78691e4b83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_85
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 103
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b226a31ed8549e42a9a9107e730956f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_86
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 98
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb229a3bf71c99b46aa09cb740cf895a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_87
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 106
+        width: 90
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ea8c4abb8da45478b8c6a2b06e61fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_88
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 114
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d984b39dfc4278940a04c7a44aade9a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_89
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 122
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45c61e34e55e194a982cee2ebc296af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_90
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 102
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e2158c80e6d2c4180ab4d17973266e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_91
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 75
+        width: 139
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322aa815572ed004385559a8e9245b37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_92
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 118
+        width: 113
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2ce0bdc60d5424d9de0320308e0778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_93
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 105
+        width: 365
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d20f6e28a95494d946c6dc132a4c92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_94
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 86
+        width: 264
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deea3294bcee10f4693a99d3f4ab03d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_95
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 97
+        width: 105
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cef30f89d61e947b828ff57b078049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_96
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 96
+        width: 102
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9bb2c95dfd4f4428cf475be19a817c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_97
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 75
+        width: 102
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84bf8ee1137cde4eb273403f6358d19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_98
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 124
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932c7f7c8e412a742873848a268173b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_wars_and_other_places_fighters_by_kavinveldar-d78bnn9 (1)_99
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 64
+        width: 226
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8534fc11b4edabf40b8756acfdfb778f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a8d1cddf29ea8734191f398776cee8d4
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
