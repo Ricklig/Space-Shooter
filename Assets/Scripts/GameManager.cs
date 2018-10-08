@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour {
 
@@ -20,6 +22,9 @@ public class GameManager : MonoBehaviour {
     public float aClock;
     public float bClock;
 
+    public Text scoreBoard;
+    private float score = 0;
+
     // Use this for initialization
     void Start () {
         StartCoroutine(SpawnA());
@@ -30,7 +35,7 @@ public class GameManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-
+        scoreBoard.text = score.ToString();
         if (bossClock > 0)
         {
             bossClock -= Time.deltaTime;
@@ -62,6 +67,24 @@ public class GameManager : MonoBehaviour {
         }
 
     }
+
+
+    public void updateScore(int value)
+    {
+        score += value;
+    }
+
+    public void mulScore()
+    {
+        score *= 2;
+    }
+
+    public void endGame()
+    {
+        StartCoroutine(fnishScene());
+        
+    }
+
     IEnumerator SpawnA()
     {
         yield return new WaitForSeconds(0);
@@ -73,6 +96,11 @@ public class GameManager : MonoBehaviour {
         yield return new WaitForSeconds(0);
         int spawnPointIndex = Random.Range(0, spawnB.Length);
         var enemy = (GameObject)Instantiate(enemyB, spawnB[spawnPointIndex].position, spawnB[spawnPointIndex].rotation);
+    }
+    IEnumerator fnishScene()
+    {
+        yield return new WaitForSeconds(3);
+        SceneManager.LoadScene("Menu");
     }
 
 }

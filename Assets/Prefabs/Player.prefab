@@ -215,8 +215,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9bf3e1a175b29df4a966b56e9b158c7f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  xMin: -10
-  xMax: 10
+  xMin: -9
+  xMax: 9
   yMin: -10
   yMax: 10
   bulletPrefab: {fileID: 1869414994226466, guid: bc215719418903c45a261822bfdfb237,

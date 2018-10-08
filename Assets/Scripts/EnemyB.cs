@@ -51,6 +51,7 @@ public class EnemyB : MonoBehaviour {
 
             Destroy(col.gameObject);
             gameObject.GetComponentInParent<EnemyBManager>().sendPos(gameObject.transform.position);
+            GameObject.FindWithTag("GameController").GetComponent<GameManager>().updateScore(200);
             Destroy(gameObject);
         }
 

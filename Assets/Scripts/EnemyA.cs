@@ -23,6 +23,7 @@ public class EnemyA : MonoBehaviour {
 
             Destroy(col.gameObject);
             gameObject.GetComponentInParent<EnemyAManager>().sendPos(gameObject.transform.position);
+            GameObject.FindWithTag("GameController").GetComponent<GameManager>().updateScore(100);
             Destroy(gameObject);
         }
 

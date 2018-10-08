@@ -30,6 +30,7 @@ public class EnemyAManager : MonoBehaviour {
             if (bns)
             {
                 var bonus = (GameObject)Instantiate(bonusDrop, position, gameObject.transform.rotation);
+                GameObject.FindWithTag("GameController").GetComponent<GameManager>().mulScore();
             }
             Destroy(gameObject);
         }
