@@ -10,6 +10,8 @@ public class GameManager : MonoBehaviour {
     public float aSetClock = 8.0f;
     public float bSetClock = 12.0f;
 
+    public int bulletBounce = 0;
+
     public GameObject bossA;
     public Transform bossSpawn;
 
@@ -27,7 +29,6 @@ public class GameManager : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-        StartCoroutine(SpawnA());
         aClock = aSetClock;
         bClock = bSetClock;
 
@@ -83,6 +84,11 @@ public class GameManager : MonoBehaviour {
     {
         StartCoroutine(fnishScene());
         
+    }
+
+    public int getBounce()
+    {
+        return bulletBounce;
     }
 
     IEnumerator SpawnA()

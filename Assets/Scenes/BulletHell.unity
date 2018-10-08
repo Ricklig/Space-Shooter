@@ -421,6 +421,7 @@ MonoBehaviour:
   bossClock: 30
   aSetClock: 6
   bSetClock: 10
+  bulletBounce: 3
   bossA: {fileID: 1657929858768946, guid: 3f504b9e5f6cb944183ba197908c4ba7, type: 2}
   bossSpawn: {fileID: 63808642}
   enemyA: {fileID: 1816490853298248, guid: 327100694371aa3419e25d3af0e9e823, type: 2}

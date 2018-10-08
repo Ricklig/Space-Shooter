@@ -4,8 +4,13 @@ using UnityEngine;
 
 public class BulletTimeOut : MonoBehaviour
 {
-    public int bounceNum;
+    private int bounceNum;
     private int bounce = 0;
+
+    void Start()
+    {
+        bounceNum = GameObject.FindWithTag("GameController").GetComponent<GameManager>().getBounce();
+    }
 
     void Update()
     {
@@ -14,6 +19,7 @@ public class BulletTimeOut : MonoBehaviour
             if (bounce < bounceNum)
             {
                 gameObject.transform.position = new Vector3(9.0f, gameObject.transform.position.y, 0.0f);
+                gameObject.layer = 13;
                 bounce++;
             }
             else
@@ -26,6 +32,7 @@ public class BulletTimeOut : MonoBehaviour
             if (bounce < bounceNum)
             {
                 gameObject.transform.position = new Vector3(-9.0f, gameObject.transform.position.y, 0.0f);
+                gameObject.layer = 13;
                 bounce++;
             }
             else
@@ -37,7 +44,8 @@ public class BulletTimeOut : MonoBehaviour
         {
             if (bounce < bounceNum)
             {
-                gameObject.transform.position = new Vector3(gameObject.transform.position.x, -10, 0.0f);
+                gameObject.transform.position = new Vector3(gameObject.transform.position.x, 10, 0.0f);
+                gameObject.layer = 13;
                 bounce++;
             }
             else
@@ -50,6 +58,7 @@ public class BulletTimeOut : MonoBehaviour
             if (bounce < bounceNum)
             {
                 gameObject.transform.position = new Vector3( gameObject.transform.position.x, -10, 0.0f);
+                gameObject.layer = 13;
                 bounce++;
             }
             else

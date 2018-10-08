@@ -14,6 +14,7 @@ public class Boss : MonoBehaviour {
     float moveReset = 4.206591f;
     float moveTime;
     float runTime;
+    float startTime = 3;
 
     float reset = 5;
 
@@ -28,6 +29,9 @@ public class Boss : MonoBehaviour {
     public GameObject zone;
     public GameObject kb;
 
+    public GameObject explode;
+    public GameObject kaboom;
+
     float shotsFired = 2;
     float numberOfZones = 2;
     bool pause = true;
@@ -40,12 +44,20 @@ public class Boss : MonoBehaviour {
     // Use this for initialization
     void Start () {
         startPos = transform.position;
-        moveTime = moveReset;
+        moveTime = 0;
         StartCoroutine(zoneCreate());
     }
 	
 	// Update is called once per frame
 	void Update () {
+
+        if (startTime > 0)
+        {
+            startTime -= Time.deltaTime;
+            Vector3 movement = new Vector3(0.0f, 3 * Time.deltaTime, 0.0f);
+            transform.Translate(movement);
+            startPos = transform.position;
+        }
         
         if (moveTime > 0)
         {
@@ -64,7 +76,7 @@ public class Boss : MonoBehaviour {
             }
         }
 
-        //shotsFired -= Time.deltaTime;
+        shotsFired -= Time.deltaTime;
         if (shotsFired < 0)
         {
             Fire();
@@ -77,6 +89,8 @@ public class Boss : MonoBehaviour {
 
             GameObject.FindWithTag("GameController").GetComponent<GameManager>().endGame();
             Destroy(gameObject);
+            var boom = (GameObject)Instantiate(explode, transform.position, transform.rotation);
+            var boooom = (GameObject)Instantiate(kaboom, transform.position, transform.rotation);
         }
         healthBar.sizeDelta = new Vector2(currentHealth,healthBar.sizeDelta.y);
 

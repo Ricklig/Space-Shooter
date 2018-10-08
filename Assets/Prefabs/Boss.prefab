@@ -286,6 +286,8 @@ MonoBehaviour:
   killBox: {fileID: 4813038257661910}
   zone: {fileID: 1388017057469674, guid: a90608081180e034ba8709f7081b1e70, type: 2}
   kb: {fileID: 1953236829633932, guid: 05a966a0ee986a34085a9cb52e50ad76, type: 2}
+  explode: {fileID: 115852, guid: 77ca88ed2593ca64ea2c6e93aa97d142, type: 2}
+  kaboom: {fileID: 164672, guid: e51b8b881f5c27e4e9be5267bb616903, type: 2}
   currentHealth: 150
   healthBar: {fileID: 224648215015528496}
 --- !u!114 &114071950947728856
@@ -553,7 +555,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.745972, y: 431.4}
+  m_AnchoredPosition: {x: 45, y: 215}
   m_SizeDelta: {x: 150, y: 10}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224980090027691066
@@ -571,6 +573,6 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -44.3, y: 423.2}
+  m_AnchoredPosition: {x: 9, y: 207}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}

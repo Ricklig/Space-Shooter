@@ -12,6 +12,8 @@ public class EnemyB : MonoBehaviour {
     public GameObject bulletPrefab;
     public Transform gun;
 
+    public GameObject explode;
+
     float shotsFired = 2.0f;
     
 
@@ -48,7 +50,7 @@ public class EnemyB : MonoBehaviour {
 
         if (col.gameObject.layer.Equals(8))
         {
-
+            var boom = (GameObject)Instantiate(explode, transform.position, transform.rotation);
             Destroy(col.gameObject);
             gameObject.GetComponentInParent<EnemyBManager>().sendPos(gameObject.transform.position);
             GameObject.FindWithTag("GameController").GetComponent<GameManager>().updateScore(200);
@@ -85,7 +87,7 @@ public class EnemyB : MonoBehaviour {
 
         yield return new WaitForSeconds(0);
         fTime += Time.deltaTime * CurveSpeed;
-        Vector3 vSin = new Vector3(Mathf.Sin(fTime) * 7, 0, 0);
+        Vector3 vSin = new Vector3(Mathf.Sin(fTime) * 15, 0, 0);
         Vector3 vLin = new Vector3(0, -MoveSpeed, 0);
         transform.position += (vSin + vLin) * Time.deltaTime;
     }

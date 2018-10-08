@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class EnemyA : MonoBehaviour {
 
+    public GameObject explode;
+
     // Use this for initialization
     void Start () {
         
@@ -20,7 +22,7 @@ public class EnemyA : MonoBehaviour {
 
         if (col.gameObject.layer.Equals(8))
         {
-
+            var boom = (GameObject)Instantiate(explode, transform.position, transform.rotation);
             Destroy(col.gameObject);
             gameObject.GetComponentInParent<EnemyAManager>().sendPos(gameObject.transform.position);
             GameObject.FindWithTag("GameController").GetComponent<GameManager>().updateScore(100);
@@ -29,14 +31,12 @@ public class EnemyA : MonoBehaviour {
 
         else if (col.gameObject.layer.Equals(9))
         {
-            
             gameObject.GetComponentInParent<EnemyAManager>().noBonus();
             Destroy(gameObject);
         }
 
         else if (col.gameObject.layer.Equals(11))
         {
-            
             col.gameObject.GetComponent<PlayerMove>().TakeDamage();
             gameObject.GetComponentInParent<EnemyAManager>().noBonus();
             Destroy(gameObject);

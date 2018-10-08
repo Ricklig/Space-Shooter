@@ -15,11 +15,21 @@ public class PlayerMove : MonoBehaviour {
     public Sprite xwing;
     public Sprite falcon;
 
+    public GameObject explode;
+    public GameObject kaboom;
+
+    AudioSource gotDamage;
+    AudioSource powerUp;
+
     public int level = 1;
 
     // Use this for initialization
     void Start () {
         playerShip = GetComponent<Rigidbody2D>();
+
+        AudioSource[] AS = GetComponents<AudioSource>();
+        gotDamage = AS[0];
+        powerUp = AS[1];
     }
 	
 	// Update is called once per frame
@@ -93,6 +103,7 @@ public class PlayerMove : MonoBehaviour {
     public void TakeDamage()
     {
         level--;
+        gotDamage.Play();
         if (level > 0)
         {
             if (level == 2)
@@ -106,13 +117,17 @@ public class PlayerMove : MonoBehaviour {
         }
         else if (level == 0)
         {
-            endGame();
+            GameObject.FindWithTag("GameController").GetComponent<GameManager>().endGame();
+            Destroy(gameObject);
+            var boom = (GameObject)Instantiate(explode, transform.position, transform.rotation);
+            var boooom = (GameObject)Instantiate(kaboom, transform.position, transform.rotation);
         }
     }
     
 
     public void LevelUp()
     {
+        powerUp.Play();
         if (level < 3)
         {
                 level++;
