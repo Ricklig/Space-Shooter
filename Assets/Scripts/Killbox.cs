@@ -4,10 +4,13 @@ using UnityEngine;
 
 public class Killbox : MonoBehaviour {
 
+    AudioSource hit;
+
     // Use this for initialization
     void Start()
     {
 
+        hit = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -20,7 +23,7 @@ public class Killbox : MonoBehaviour {
 
         if (col.gameObject.layer.Equals(8))
         {
-
+            hit.Play();
             Destroy(col.gameObject);
             gameObject.GetComponentInParent<Boss>().kbHit();
         }

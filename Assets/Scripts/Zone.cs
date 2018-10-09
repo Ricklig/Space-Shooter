@@ -5,14 +5,16 @@ using UnityEngine;
 public class Zone : MonoBehaviour {
 
     float hp = 2;
-	// Use this for initialization
-	void Start () {
-		
-	}
+    AudioSource hit;
+
+    // Use this for initialization
+    void Start () {
+		hit = GetComponent<AudioSource>();
+    }
 	
 	// Update is called once per frame
 	void Update () {
-		if (hp == 0)
+		if (hp <= 0)
         {
             gameObject.GetComponentInParent<Boss>().zoneDestroy();
             Destroy(gameObject);
@@ -24,7 +26,7 @@ public class Zone : MonoBehaviour {
 
         if (col.gameObject.layer.Equals(8))
         {
-
+            hit.Play();
             Destroy(col.gameObject);
             hp--;
         }

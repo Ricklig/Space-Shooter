@@ -84,7 +84,7 @@ public class Boss : MonoBehaviour {
         }
 
 
-        if(currentHealth == 0)
+        if(currentHealth <= 0)
         {
 
             GameObject.FindWithTag("GameController").GetComponent<GameManager>().endGame();
